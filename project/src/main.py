@@ -2,9 +2,8 @@ __author__ = 'Fernando'
 
 import sys
 
-from ui.screen import *
 from pygame.locals import *
-
+from ui.screen import *
 
 def main():
     pygame.init()
