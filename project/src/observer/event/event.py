@@ -1,6 +1,6 @@
 __author__ = 'Fernando'
 
-from observer.observable import *
+from src.observer.observable import *
 
 
 class Event(Observable):
